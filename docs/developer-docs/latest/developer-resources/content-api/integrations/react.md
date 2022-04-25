@@ -42,6 +42,10 @@ Many HTTP clients are available but in this documentation we'll use [Axios](http
 ::: tab axios
 
 ```bash
+npm install axios
+```
+
+```bash
 yarn add axios
 ```
 
